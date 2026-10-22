@@ -8,4 +8,8 @@ port capteurVitesse;
 part monVelocommande : SystemeVelocommande {
 poids = 12.5;
 }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6f7791702c33eddbe08a633a9dfff81ffcd8af8c
