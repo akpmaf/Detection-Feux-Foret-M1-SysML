@@ -9,4 +9,3 @@ part monVelocommande : SystemeVelocommande {
 poids = 12.5;
 }
 }
-salut mafous le grand rigolo
